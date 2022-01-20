@@ -1,5 +1,5 @@
 # Author
---National Cheng Kung University EE 113 - 陳育政<br />
+--National Cheng Kung University Electrical Engineering - 陳育政<br />
 
 # Product Name
 --Taiwan Stock Crawler with Python<br />
