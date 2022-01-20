@@ -2,7 +2,7 @@
 --National Cheng Kung University Electrical Engineering - 陳育政<br />
 
 # Product Name
---Taiwan Stock Crawler with Python<br />
+--Taiwan Stock Search by Crawler with Python<br />
 
 # Last Edit Time
 --2022/1/19 00:33<br />
